@@ -1,6 +1,6 @@
 # Amazon Clone by Akshay Nallamala
 
-A full-stack **Amazon Clone** web application built with modern web technologies. This project replicates core features of Amazon’s e-commerce platform, including product listings, cart functionality, authentication, and order management.
+A frontend **Amazon Clone** built with React.js and Firebase as the backend-as-a-service (BaaS). The project replicates e-commerce features such as product listings, shopping cart, user authentication, and order history.
 
 ---
 
@@ -23,10 +23,10 @@ A full-stack **Amazon Clone** web application built with modern web technologies
 - Redux (for state management)  
 - CSS / TailwindCSS  
 
-**Backend:**
-- Node.js  
-- Express.js  
-- Firebase (Authentication & Firestore Database)  
+**Backend-as-a-Service (BaaS):**
+- Firebase Authentication
+- Firebase Firestore Database
+- Firebase Hosting (optional)
 
 **Others:**
 - Stripe (or mock checkout integration)  
@@ -57,7 +57,7 @@ amazon-clone-akshay-exact/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/AkshayNallamala/amazon-clone-akshay-exact.git
+git clone https://github.com/NallamalaAkshay/amazon-clone-akshay.git
 cd amazon-clone-akshay-exact
 npm install
 ```
@@ -79,16 +79,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Product Page | Cart Page |
-|-----------|--------------|-----------|
-| ![Home](docs/images/home.png) | ![Product](docs/images/product.png) | ![Cart](docs/images/cart.png) |
-
-*(You can replace these with actual screenshots from your project.)*
-
----
-
 ## 🌟 Future Improvements
 
 - Add product categories & advanced filtering.  
@@ -101,8 +91,8 @@ npm start
 ## 👨‍💻 Author
 
 Developed by **Akshay Nallamala**  
-📧 [Your Email Here]  
-🔗 [LinkedIn/GitHub Profile Link]
+📧 akshaynallamala03@gmail.com
+🔗 [https://github.com/NallamalaAkshay]
 
 ---
 
