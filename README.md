@@ -78,6 +78,24 @@ npm start
 4. Add your Firebase configuration to `firebase.js` in the project.  
 
 ---
+## 📸 Screenshots
+
+### 🛍️ Products Page
+![Products](public/Images/Products.png)
+
+### 🛍️ customer Service Page
+![Customer Service](public/Images/customer_service.png)
+
+### 📝 Register Page
+![Register](public/Images/register.png)
+
+### 📦 Deals Page
+![Deals](public/Images/Deals.png)
+
+### 📦 subscription Page
+![subscription](public/Images/subscription.png)
+
+---
 
 ## 🌟 Future Improvements
 
